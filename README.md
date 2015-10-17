@@ -1,2 +1,2 @@
-# KMP-string-Matching
-KMP String Matching C++ code
+#KMP-string-Matching
+string search algo
